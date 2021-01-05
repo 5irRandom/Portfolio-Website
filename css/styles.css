@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategray;
+}
+.color-current {
+    color: whitesmoke !important;
+}
+
+.content {
+    background: rgb(35, 41, 41);
+}
+
+body p {
+    color: lightgray
+}
