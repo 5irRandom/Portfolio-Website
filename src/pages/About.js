@@ -19,7 +19,7 @@ return (
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/3PXzgXBRM_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/BkUAzcja74Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/R77CC9D0sYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <p>Yes I know that last one is an entire album but its unfair to split up the 2 songs it contains</p>
+                    <p>Yes I know that last one is an entire single but its unfair to split up the 2 songs it contains</p>
                 </section>
             </div>
         </div>
