@@ -42,7 +42,7 @@ export default function Navbar(props) {
             <div className="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar">
                 <ul className="navbar-nav ms-auto flex-nowrap">
                     <li className="nav-item">
-                        <a href="/resume">Resume</a>
+                        <a className="nav-link menu-item btn btn-outline-secondary" target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1fGV7pP4wizAbMl0S4cPmq5mo1ZZAf1_tGZijXn2B5Vw/edit?usp=sharing">Resume</a>
                     </li>
                 </ul>
             </div>

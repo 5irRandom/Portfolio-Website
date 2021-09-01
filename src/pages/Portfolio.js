@@ -6,13 +6,20 @@ function Portfolio() {
             <div class="row">
             <section>
                 <p class="h2 text-center">Portfolio</p>
-                <br />
                 <div class="text-center">
                 <hr />
-                <a class="h4" href="https://github.com/5irRandom/Project-1">Our first in class project</a>
-                    <img src="../../assets/Project1img.png" class="img-fluid border mx-auto" alt="Completed Application" />
-                <a class="h4" href="https://github.com/ashleyhayjin/projectTwo">Our second in class project</a>
-                <img src="../../assets/350placeholder.png" class="img-fluid border mx-auto" alt="Completed Application" />
+                <br />
+                    <a class="h4" href="https://github.com/5irRandom/projectTwo">Git Jokes Redux</a>
+                    <img src={`${process.env.PUBLIC_URL}/assets/project2preredux.png`} class="img-fluid border mx-auto" alt="Completed Application" />
+                    <p>The second project I worked on, soon to be reworked to work with React as well as a general restructuring.</p>
+                <br />
+                    <a class="h4" href="https://github.com/wrp90/ProductivityApp/">Productivity App</a>
+                    <img src={`${process.env.PUBLIC_URL}/assets/project3.png`} class="img-fluid border mx-auto" alt="Completed Application" />
+                    <p>The third and latest project I worked on with a group, overall uncompleted but feature rich.</p>
+                <br />
+                    <a class="h4" href="https://github.com/5irRandom/Project-1">How Does that Song Go?</a>
+                    <img src={`${process.env.PUBLIC_URL}/assets/project1.png`} class="img-fluid border mx-auto" alt="Completed Application" />
+                    <p>Needs some definite improvements but for a first project I think it came together pretty well.</p>
                 </div>
             </section>
             </div>

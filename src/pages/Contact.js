@@ -7,21 +7,18 @@ function Contact() {
       <section>
         <p class="h2 text-center">Contact</p>
         <br /> 
-        <form>
           <div class="mb-3">
-            <label for="inputName" class="form-label textcolor">Name</label>
-            <input type="name" class="form-control" id="inputName" />
+            <p>Email Address: JaxonDuncand6@gmail.com</p>
           </div>
           <div class="mb-3">
-            <label for="inputEmail" class="form-label textcolor">Email Address</label>
-            <input type="email" class="form-control" id="inputEmail" />
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/jaxon-duncan-136a5a159/">https://www.linkedin.com/in/jaxon-duncan-136a5a159/</a></p>
           </div>
           <div class="mb-3">
-            <label for="inputMessage" class="form-label textcolor">Message</label>
-            <textarea class="form-control" id="inputMessage" rows="3"></textarea>
+            <p>GitHub: <a href="https://github.com/5irRandom">Jaxon-Duncan</a></p>
           </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+          <div class="mb-3">
+            <p>Phone Number: (313) 505-2460</p>
+          </div>
       </section>
     </div>
   </div>
